@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M149.934 365.066C184.3 399.432 240.019 399.432 274.385 365.066C308.751 330.7 308.751 274.981 274.385 240.615C240.019 206.249 184.3 206.249 149.934 240.615C115.568 274.981 115.568 330.7 149.934 365.066ZM176.097 338.903C196.014 358.82 228.305 358.82 248.222 338.903C268.138 318.986 268.138 286.695 248.222 266.778C228.305 246.861 196.014 246.861 176.097 266.778C156.18 286.695 156.18 318.986 176.097 338.903Z" fill="#100F1B"/>
+<circle cx="212.159" cy="302.841" r="32" transform="rotate(45 212.159 302.841)" fill="#100F1B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M256 259C284.118 287.118 329.706 287.118 357.823 259C385.941 230.882 385.941 185.294 357.823 157.177C329.706 129.059 284.118 129.059 256 157.177C227.882 185.294 227.882 230.882 256 259ZM278.627 236.373C294.248 251.994 319.575 251.994 335.196 236.373C350.817 220.752 350.817 195.425 335.196 179.804C319.575 164.183 294.248 164.183 278.627 179.804C263.006 195.425 263.006 220.752 278.627 236.373Z" fill="#100F1B"/>
+<circle cx="306.912" cy="208.088" r="24" transform="rotate(45 306.912 208.088)" fill="#100F1B"/>
+<circle cx="188.118" cy="384.865" r="9" transform="rotate(45 188.118 384.865)" fill="#100F1B" stroke="#ECFCFF" stroke-width="2"/>
+<circle cx="130.842" cy="327.589" r="9" transform="rotate(45 130.842 327.589)" fill="#100F1B" stroke="#ECFCFF" stroke-width="2"/>
+<circle cx="184.582" cy="217.281" r="9" transform="rotate(-45 184.582 217.281)" fill="#100F1B" stroke="#ECFCFF" stroke-width="2"/>
+<circle cx="127.307" cy="274.556" r="9" transform="rotate(-45 127.307 274.556)" fill="#100F1B" stroke="#ECFCFF" stroke-width="2"/>
+<circle cx="297.719" cy="330.418" r="9" transform="rotate(-45 297.719 330.418)" fill="#100F1B" stroke="#ECFCFF" stroke-width="2"/>
+<circle cx="240.444" cy="387.693" r="9" transform="rotate(-45 240.444 387.693)" fill="#100F1B" stroke="#ECFCFF" stroke-width="2"/>
+<circle cx="296.305" cy="276.678" r="9" transform="rotate(45 296.305 276.678)" fill="#100F1B" stroke="#ECFCFF" stroke-width="2"/>
+<circle cx="239.029" cy="219.402" r="9" transform="rotate(45 239.029 219.402)" fill="#100F1B" stroke="#ECFCFF" stroke-width="2"/>
+</svg>
